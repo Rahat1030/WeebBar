@@ -1,0 +1,91 @@
+* {
+  font-family: sans-serif;
+  text-align: justify;
+}
+
+.bck {
+  background-image: linear-gradient(rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0.75)),
+    url(/Banner2.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+
+h1 {
+  font-size: 50px;
+  color: rgb(246, 105, 54);
+}
+
+.dmslli {
+  color: white;
+}
+
+.nartli {
+  color: white;
+}
+
+.onpmli {
+  color: white;
+}
+
+h2 {
+  font-size: 30px;
+  color: white;
+}
+
+p {
+  font-size: 20px;
+  color: white;
+}
+
+img {
+  height: 100px;
+  width: 100px;
+}
+
+ol {
+  color: white;
+  font-size: 30px;
+}
+
+.dtnt {
+  color: white;
+}
+
+a {
+  color: white;
+}
+
+.dtnth2 {
+  color: white;
+}
+
+.dmsl {
+  color: rgb(246, 105, 54);
+}
+
+.dmslh2 {
+  color: white;
+}
+
+.nart {
+  color: rgb(246, 105, 54);
+}
+
+.onepun {
+  color: rgb(246, 105, 54);
+}
+
+a {
+  color: rgb(246, 105, 54);
+}
+
+.pas {
+  text-align: center;
+  margin-top: 70px;
+  margin-bottom: 10%;
+}
+
+.rokhone {
+  color: rgb(246, 105, 54);
+}
